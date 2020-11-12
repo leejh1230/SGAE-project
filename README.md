@@ -84,8 +84,8 @@ scripts         : 스크립트 파일들
         bash ./scripts/get_scene_graph.sh
         
         
-* SGAE (Image Captioning)
-    [Drive](https://drive.google.com/drive/folders/1W9UTkdkCH5Hk0OLDGoPTECTQ2gcqOQc1?usp=sharing)
+* SGAE (Image Captioning)\
+    [Drive](https://drive.google.com/drive/folders/1W9UTkdkCH5Hk0OLDGoPTECTQ2gcqOQc1?usp=sharing) \
     데이터 \
     ``` data/coco_spice_sg2/ ``` sentence scene graphs \
     ``` data/cocobu2.json```     image metadata \
