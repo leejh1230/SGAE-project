@@ -21,13 +21,6 @@ models          : 모델
 
 scripts         : 스크립트 파일들 
 
-
-# 데이터 설명 
-
-* Graph R-CNN \
-
-
-
 # 실행 방법 
 
 * Graph R-CNN (Scene graph 생성) \
